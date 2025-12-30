@@ -37,6 +37,16 @@
 
 <hr/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20digital%20space&fontSize=60&animation=fadeIn&fontAlignY=50&descAlignY=50&descAlign=62" />
+
+<div align="center">
+
+  ### ⚡ About Me
+  
+  > *"I turn coffee into code and ideas into reality."*
+  
+  Currently focusing on **React.js** and **Tailwind CSS** to build beautiful user interfaces.
+
 ### 🛠️ **Tech Stack**
 
 | Core | Styling | Tools |
