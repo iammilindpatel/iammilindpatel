@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Specialist;+UI/UX+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Specialist;ai+UI/UX+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 <div align="center" >
@@ -66,13 +66,6 @@
 | :--- | :--- | :--- |
 | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
-### 🚀 **Featured Projects**
-
-| **Project** | **Tech Stack** | **Description** |
-| :--- | :--- | :--- |
-| **[Study-Notion](https://github.com/iammilindpatel/Study-Notion)** | React, Node, Express | A comprehensive EdTech platform for instructors and students. |
-| **[Live-Weather](https://github.com/iammilindpatel/Live-Weather)** | JavaScript, API | Real-time weather forecasting application. |
-| **[Shopping-Cart](https://github.com/iammilindpatel/Shopping-Cart)** | React, Redux | Fully functional e-commerce cart system. |
 
 <br/>
 
