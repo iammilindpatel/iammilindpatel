@@ -38,7 +38,3 @@
 
 <br/>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=iammilindpatel"  width="100%" height="150" alt="stats graph" />
-</div>
