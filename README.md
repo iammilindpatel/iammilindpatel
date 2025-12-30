@@ -21,14 +21,6 @@
 
 <div align="center">
 
-  <h1 align="center">Hi there, I'm Milind Patel 👋</h1>
-  <h3 align="center">Frontend Developer | React Specialist | UI/UX Enthusiast</h3>
-
-  <p align="center">
-    Based in <b>Gujarat, India</b> 🇮🇳
-    <br/>
-    Building responsive, pixel-perfect web applications with modern technologies.
-  </p>
 
   <p align="center">
     <a href="https://milindpatel.netlify.app/" target="_blank">
