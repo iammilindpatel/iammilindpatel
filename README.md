@@ -11,10 +11,6 @@
 
 </br>
 
-<p align="center">
-  *A passionate <b>Frontend Developer</b> crafting seamless web experiences
-</p>
-
 
 <div align="center">
 
