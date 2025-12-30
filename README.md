@@ -5,7 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Specialist;+UI/UX+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&center=true&vCenter=true&height=250&section=header&text=Welcome%20to%20my%20digital%20space&fontSize=60&animation=fadeIn&fontAlignY=50&descAlignY=50" />
+<div align="center" >
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&center=true&vCenter=true&height=250&section=header&text=Welcome%20to%20my%20digital%20space&fontSize=60&animation=fadeIn&fontAlignY=50&descAlignY=50" />
+</div>
 
 </br>
 
