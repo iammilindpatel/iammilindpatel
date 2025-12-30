@@ -44,10 +44,7 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milindpatel13298)](https://www.linkedin.com/in/milindpatel13298)
   [![Website Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Google-Chrome&logoColor=white&link=https://milindpatel.netlify.app/)](https://milindpatel.netlify.app/)
-  
-</div>
 
----
 
   
   > *"I turn coffee into code and ideas into reality."*
@@ -55,6 +52,10 @@
   Currently focusing on **React.js** and **Tailwind CSS** to build beautiful user interfaces.
 
 
+  
+</div>
+
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammilindpatel&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
