@@ -19,14 +19,6 @@
 
 ---
 
-### 📊 **GitHub Analytics**
-
-<div align="center">
-  <a href="https://github.com/iammilindpatel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iammilindpatel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammilindpatel&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
 
 ### 🛠️ **Skills & Tools**
 
@@ -38,12 +30,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Razorpay-0C2453?style=for-the-badge&logo=razorpay&logoColor=white" />
 </p>
-
-### 🏆 **Top Projects**
-
-- **[Study-Notion](https://github.com/iammilindpatel/Study-Notion)** - EdTech Platform (React/JS)
-- **[Live-Weather](https://github.com/iammilindpatel/Live-Weather)** - Weather App (JS/API)
-- **[Razorpay-Clone](https://github.com/iammilindpatel/Razorpay)** - Payment Gateway UI (HTML/Tailwind)
 
 ---
 <p align="center">
