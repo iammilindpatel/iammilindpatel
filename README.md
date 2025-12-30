@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  A passionate <b>Frontend Developer</b> from India, crafting seamless web experiences
+  *A passionate <b>Frontend Developer</b> from India, crafting seamless web experiences
 </p>
 
 <div align="center">
