@@ -50,6 +50,24 @@
   
   Currently focusing on **React.js** and **Tailwind CSS** to build beautiful user interfaces.
 
+
+  ## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shishir420-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir420-git&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shishir420-git&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shishir420-git&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+---
+
 ### 🛠️ **Tech Stack**
 
 | Core | Styling | Tools |
