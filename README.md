@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Milind%20Patel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Learner&descAlignY=51&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Milind%20Patel&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
 
 <div align="center">
 
