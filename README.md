@@ -15,14 +15,6 @@
   *A passionate <b>Frontend Developer</b> crafting seamless web experiences
 </p>
 
-<div align="center">
-
-  [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milindpatel13298)](https://www.linkedin.com/in/milindpatel13298)
-  [![Website Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Google-Chrome&logoColor=white&link=https://milindpatel.netlify.app/)](https://milindpatel.netlify.app/)
-  
-</div>
-
----
 
 <div align="center">
 
@@ -47,6 +39,16 @@
 <div align="center">
 
   ### ⚡ About Me
+
+  <div align="center">
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milindpatel13298)](https://www.linkedin.com/in/milindpatel13298)
+  [![Website Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Google-Chrome&logoColor=white&link=https://milindpatel.netlify.app/)](https://milindpatel.netlify.app/)
+  
+</div>
+
+---
+
   
   > *"I turn coffee into code and ideas into reality."*
   
