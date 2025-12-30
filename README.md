@@ -4,8 +4,6 @@
   <h3 align="center">Frontend Developer | React Specialist | UI/UX Enthusiast</h3>
 
   <p align="center">
-    Based in <b>Gujarat, India</b> 🇮🇳
-    <br/>
     Building responsive, pixel-perfect web applications with modern technologies.
   </p>
 
