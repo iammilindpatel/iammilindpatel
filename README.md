@@ -5,6 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Specialist;+UI/UX+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20digital%20space&fontSize=60&animation=fadeIn&fontAlignY=50&descAlignY=50&descAlign=62" />
+
+</br>
 
 <p align="center">
   *A passionate <b>Frontend Developer</b> crafting seamless web experiences
@@ -37,7 +40,7 @@
 
 <hr/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20digital%20space&fontSize=60&animation=fadeIn&fontAlignY=50&descAlignY=50&descAlign=62" />
+
 
 <div align="center">
 
